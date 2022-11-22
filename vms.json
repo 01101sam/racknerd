@@ -14656,5 +14656,58 @@
                 }
             ]
         }
+    },
+    {
+        "id": 716,
+        "category": "special-promos",
+        "nameId": "custom-vps-for-cid29006",
+        "url": "https://my.racknerd.com/index.php?rp=/store/special-promos/custom-vps-for-cid29006",
+        "status": "available",
+        "name": "Custom VPS for CID29006",
+        "desc": "",
+        "spec": {},
+        "price": [
+            {
+                "annually": 18
+            },
+            {
+                "biennially": 36
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "Dallas, TX",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Chicago, IL",
+                    "testIp": "198.23.228.15"
+                },
+                {
+                    "region": "New Jersey",
+                    "testIp": "192.3.165.30"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                },
+                {
+                    "region": "San Jose, CA",
+                    "testIp": "192.210.207.88"
+                },
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Amsterdam",
+                    "testIp": "23.94.101.88"
+                }
+            ],
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
     }
 ]
