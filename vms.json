@@ -14381,5 +14381,63 @@
             "ram": null,
             "bandwidth": null
         }
+    },
+    {
+        "id": 722,
+        "category": "black-friday-2022",
+        "nameId": "flash-sale-large-storage-6-gb-ram-kvm-vps-san-jose-or-new-york",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2022/flash-sale-large-storage-6-gb-ram-kvm-vps-san-jose-or-new-york",
+        "status": "available",
+        "name": "FLASH SALE - LARGE STORAGE 6 GB RAM KVM VPS (San Jose or New York)",
+        "desc": "4x vCPU Cores\n100 GB PURE SSD RAID-10 Storage\n6 GB RAM\n6000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in San Jose or New York",
+        "spec": {
+            "vCPU": 4,
+            "disk": {
+                "value": 100,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 6,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 6000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 69
+            },
+            {
+                "biennially": 138
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "San Jose",
+                    "testIp": "192.210.207.88"
+                },
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                }
+            ],
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
     }
 ]
