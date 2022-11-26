@@ -14563,5 +14563,59 @@
             "ram": null,
             "bandwidth": null
         }
+    },
+    {
+        "id": 726,
+        "category": "black-friday-2022",
+        "nameId": "flash-sale-23-gb-kvm-vps-new-york",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2022/flash-sale-23-gb-kvm-vps-new-york",
+        "status": "available",
+        "name": "FLASH SALE - 2.3 GB KVM VPS (New York)",
+        "desc": "1x vCPU Core\n45 GB PURE SSD RAID-10 Storage\n2.3 GB RAM\n4000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in New York",
+        "spec": {
+            "vCPU": 1,
+            "disk": {
+                "value": 45,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 2.3,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 4000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 14.95
+            },
+            {
+                "biennially": 29.9
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                }
+            ],
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
     }
 ]
