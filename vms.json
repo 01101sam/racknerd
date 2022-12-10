@@ -14617,5 +14617,107 @@
             "ram": null,
             "bandwidth": null
         }
+    },
+    {
+        "id": 728,
+        "category": "racknerd-merchandise",
+        "nameId": "gaming-mousepad",
+        "url": "https://my.racknerd.com/index.php?rp=/store/racknerd-merchandise/gaming-mousepad",
+        "status": "available",
+        "name": "Gaming Mousepad",
+        "desc": "Price $34.00 USD\n* Free Shipping to any US Address\n* Additional charges may apply for international shipments (if you are outside of the US, contact us before ordering)",
+        "spec": {},
+        "price": [],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 729,
+        "category": "racknerd-merchandise",
+        "nameId": "racknerd-branded-swissgear-backpack",
+        "url": "https://my.racknerd.com/index.php?rp=/store/racknerd-merchandise/racknerd-branded-swissgear-backpack",
+        "status": "available",
+        "name": "RackNerd Branded SwissGear Backpack",
+        "desc": "Price $75.00 USD\n* Free Shipping to any US Address\n* Additional charges may apply for international shipments (if you are outside of the US, contact us before ordering)",
+        "spec": {},
+        "price": [],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 730,
+        "category": "racknerd-merchandise",
+        "nameId": "racknerd-coffee-mug",
+        "url": "https://my.racknerd.com/index.php?rp=/store/racknerd-merchandise/racknerd-coffee-mug",
+        "status": "available",
+        "name": "RackNerd Coffee Mug",
+        "desc": "Price $10.00 USD\n* Free Shipping to any US Address\n* Additional charges may apply for international shipments (if you are outside of the US, contact us before ordering)",
+        "spec": {},
+        "price": [],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 731,
+        "category": "racknerd-merchandise",
+        "nameId": "racknerd-travel-mug",
+        "url": "https://my.racknerd.com/index.php?rp=/store/racknerd-merchandise/racknerd-travel-mug",
+        "status": "available",
+        "name": "RackNerd Travel Mug",
+        "desc": "Price $10.00 USD\n* Free Shipping to any US Address\n* Additional charges may apply for international shipments (if you are outside of the US, contact us before ordering)",
+        "spec": {},
+        "price": [],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 732,
+        "category": "racknerd-merchandise",
+        "nameId": "racknerd-t-shirt",
+        "url": "https://my.racknerd.com/index.php?rp=/store/racknerd-merchandise/racknerd-t-shirt",
+        "status": "available",
+        "name": "RackNerd T-Shirt",
+        "desc": "Price $28.00 USD\n* Free Shipping to any US Address\n* Additional charges may apply for international shipments (if you are outside of the US, contact us before ordering)",
+        "spec": {},
+        "price": [],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 733,
+        "category": "racknerd-merchandise",
+        "nameId": "racknerd-flexfit-hat",
+        "url": "https://my.racknerd.com/index.php?rp=/store/racknerd-merchandise/racknerd-flexfit-hat",
+        "status": "available",
+        "name": "RackNerd FlexFit Hat",
+        "desc": "Price $35.00 USD\n* Free Shipping to any US Address\n* Additional charges may apply for international shipments (if you are outside of the US, contact us before ordering)",
+        "spec": {},
+        "price": [],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
     }
 ]
