@@ -11291,60 +11291,6 @@
         }
     },
     {
-        "id": 557,
-        "category": "labor-day-dedicated-server-promotions",
-        "nameId": "ut-dual-intel-xeon-e5-2696-v2-128gb-ram-1x-256-gb-ssd-2x-3-tb-hdd",
-        "url": "https://my.racknerd.com/index.php?rp=/store/labor-day-dedicated-server-promotions/ut-dual-intel-xeon-e5-2696-v2-128gb-ram-1x-256-gb-ssd-2x-3-tb-hdd",
-        "status": "available",
-        "name": "[UT] Dual Intel Xeon E5-2696 V2 - 128GB RAM - 1x 256 GB SSD + 2x 3 TB HDD",
-        "desc": "Dual Intel Xeon E5-2696 V2 (24 Cores, 48 Threads @ 2.50 GHz)\n128 GB RAM\n1x 256 GB SSD + 2x 3 TB HDD\n50 TB Monthly Transfer\n1Gbps Network Port\nPremium Network Blend\n/29 IPv4 - 5 IPv4 Addresses\nUtah Datacenter Location",
-        "spec": {
-            "cpuInfo": "Dual Intel Xeon E5-2696 V2 (24 Cores, 48 Threads @ 2.50 GHz)",
-            "memory": {
-                "value": 128,
-                "unit": "GB"
-            },
-            "disk": {
-                "value": 256,
-                "unit": "GB",
-                "type": "HDD"
-            },
-            "bandwidth": {
-                "value": 50,
-                "unit": "TB"
-            },
-            "netSpeed": {
-                "value": 1,
-                "unit": "Gbps",
-                "unmetered": false
-            },
-            "ipSlot": {
-                "value": 29,
-                "dedicated": false
-            }
-        },
-        "price": [
-            {
-                "monthly": 199
-            },
-            {
-                "quarterly": 1167
-            },
-            {
-                "semiannually": 2334
-            },
-            {
-                "annually": 4668
-            }
-        ],
-        "options": {
-            "location": null,
-            "diskStorage": null,
-            "ram": null,
-            "bandwidth": null
-        }
-    },
-    {
         "id": 558,
         "category": "labor-day-dedicated-server-promotions",
         "nameId": "ut-dual-intel-xeon-e5-2695-v3-512gb-ram-10x-16tb-ssd",
