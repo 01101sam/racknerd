@@ -14765,5 +14765,73 @@
             ],
             "bandwidth": null
         }
+    },
+    {
+        "id": 744,
+        "category": "windows-vps-with-nvme-ssd",
+        "nameId": "custom-windows-vps-plan-8gb-cid95823",
+        "url": "https://my.racknerd.com/index.php?rp=/store/windows-vps-with-nvme-ssd/custom-windows-vps-plan-8gb-cid95823",
+        "status": "available",
+        "name": "Custom Windows VPS Plan (8GB) - CID#95823",
+        "desc": "",
+        "spec": {},
+        "price": [
+            {
+                "monthly": 24
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Dallas",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                }
+            ],
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 745,
+        "category": "windows-vps-with-nvme-ssd",
+        "nameId": "custom-windows-vps-plan-2gb-cid95823",
+        "url": "https://my.racknerd.com/index.php?rp=/store/windows-vps-with-nvme-ssd/custom-windows-vps-plan-2gb-cid95823",
+        "status": "available",
+        "name": "Custom Windows VPS Plan (2GB) - CID#95823",
+        "desc": "",
+        "spec": {},
+        "price": [
+            {
+                "monthly": 9
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Dallas",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                }
+            ],
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
     }
 ]
