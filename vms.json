@@ -4972,52 +4972,6 @@
         }
     },
     {
-        "id": 235,
-        "category": "dedicated-servers",
-        "nameId": "mtl-intel-xeon-e3-series-16gb-ram-500gb-ssd-160tb-transfer",
-        "url": "https://my.racknerd.com/index.php?rp=/store/dedicated-servers/mtl-intel-xeon-e3-series-16gb-ram-500gb-ssd-160tb-transfer",
-        "status": "available",
-        "name": "[MTL] Intel Xeon E3 Series | 16GB RAM | 500GB SSD | 160TB Transfer",
-        "desc": "Intel Xeon E3 Processor (AVX2 Supported)\n16 GB RAM\n1x 500 GB SSD\n160TB Monthly Transfer per server\n1Gbps Network Port per server\n/29 IPv4 Allocation included per server\nIPMI / KVM Access\nDatacenter Location: Montreal, Canada",
-        "spec": {
-            "cpuInfo": "Intel Xeon E3 Processor (AVX2 Supported)",
-            "memory": {
-                "value": 16,
-                "unit": "GB"
-            },
-            "disk": {
-                "value": 500,
-                "unit": "GB",
-                "type": "SSD"
-            },
-            "bandwidth": {
-                "value": 160,
-                "unit": "TB"
-            },
-            "netSpeed": {
-                "value": 1,
-                "unit": "Gbps",
-                "unmetered": false
-            },
-            "ipSlot": {
-                "value": 29,
-                "dedicated": false
-            },
-            "controlPanel": "IPMI / KVM"
-        },
-        "price": [
-            {
-                "monthly": 259
-            }
-        ],
-        "options": {
-            "location": null,
-            "diskStorage": null,
-            "ram": null,
-            "bandwidth": null
-        }
-    },
-    {
         "id": 242,
         "category": "dedicated-servers",
         "nameId": "dual-intel-xeon-e5-2697-v2-64gb-ram",
