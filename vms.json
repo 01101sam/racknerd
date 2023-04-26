@@ -407,41 +407,6 @@
         }
     },
     {
-        "id": 8,
-        "category": "colocation",
-        "nameId": "single-server-colocation",
-        "url": "https://my.racknerd.com/index.php?rp=/store/colocation/single-server-colocation",
-        "status": "available",
-        "name": "Single Server Colocation",
-        "desc": "1U to 4U Rackspace (Single Server)\n1Amp 120v Power Allocation\n10TB Monthly Transfer\n1Gbps Network Port\n/29 IPv4 Allocation - 5 Usable IPs\n24/7 Remote Eyes & Hands\nLos Angeles DC-02 Datacenter Location",
-        "spec": {
-            "bandwidth": {
-                "value": 10,
-                "unit": "TB"
-            },
-            "netSpeed": {
-                "value": 1,
-                "unit": "Gbps",
-                "unmetered": false
-            },
-            "ipSlot": {
-                "value": 5,
-                "dedicated": false
-            }
-        },
-        "price": [
-            {
-                "monthly": 149
-            }
-        ],
-        "options": {
-            "location": null,
-            "diskStorage": null,
-            "ram": null,
-            "bandwidth": null
-        }
-    },
-    {
         "id": 9,
         "category": "colocation",
         "nameId": "quarter-rack-colocation",
