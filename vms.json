@@ -11108,5 +11108,72 @@
             "ram": null,
             "bandwidth": null
         }
+    },
+    {
+        "id": 770,
+        "category": "memorial-day-2023",
+        "nameId": "1gb-kvm-vps-los-angeles-dc-02",
+        "url": "https://my.racknerd.com/index.php?rp=/store/memorial-day-2023/1gb-kvm-vps-los-angeles-dc-02",
+        "status": "available",
+        "name": "1GB KVM VPS (Los Angeles DC-02)",
+        "desc": "1x vCPU Cores\n20 GB PURE SSD RAID-10 Storage\n1 GB RAM\n3000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Los Angeles DC-02",
+        "spec": {
+            "vCPU": 1,
+            "disk": {
+                "value": 20,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 1,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 3000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 14.99
+            },
+            {
+                "biennially": 29.48
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "Los Angeles DC02",
+                    "testIp": "204.13.154.3"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 1,
+                    "unit": "GB"
+                },
+                {
+                    "value": 2,
+                    "unit": "GB"
+                },
+                {
+                    "value": 3,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
     }
 ]
