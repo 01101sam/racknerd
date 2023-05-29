@@ -407,41 +407,6 @@
         }
     },
     {
-        "id": 9,
-        "category": "colocation",
-        "nameId": "quarter-rack-colocation",
-        "url": "https://my.racknerd.com/index.php?rp=/store/colocation/quarter-rack-colocation",
-        "status": "available",
-        "name": "Quarter Rack Colocation",
-        "desc": "10U Rack Space\n10Amp 120v Power Allocation\n30TB Monthly Transfer\n1Gbps Network Port\n/27 IPv4 Allocation - 29 Usable IPs\n24/7 Remote Eyes & Hands\nLos Angeles DC-02 Datacenter Location",
-        "spec": {
-            "bandwidth": {
-                "value": 30,
-                "unit": "TB"
-            },
-            "netSpeed": {
-                "value": 1,
-                "unit": "Gbps",
-                "unmetered": false
-            },
-            "ipSlot": {
-                "value": 29,
-                "dedicated": false
-            }
-        },
-        "price": [
-            {
-                "monthly": 429
-            }
-        ],
-        "options": {
-            "location": null,
-            "diskStorage": null,
-            "ram": null,
-            "bandwidth": null
-        }
-    },
-    {
         "id": 12,
         "category": "dedicated-servers",
         "nameId": "intel-xeon-e3-1230-v2-16gb-ram-480-gb-ssd",
