@@ -3212,30 +3212,6 @@
         }
     },
     {
-        "id": 161,
-        "category": "dedicated-servers",
-        "nameId": "intel-xeon-e3-1230-v5-16gb-ram-london",
-        "url": "https://my.racknerd.com/index.php?rp=/store/dedicated-servers/intel-xeon-e3-1230-v5-16gb-ram-london",
-        "status": "available",
-        "name": "Intel Xeon E3-1230 V5 | 16GB RAM | London",
-        "desc": "",
-        "spec": {},
-        "price": [
-            {
-                "monthly": 109
-            },
-            {
-                "annually": 1242.6
-            }
-        ],
-        "options": {
-            "location": null,
-            "diskStorage": null,
-            "ram": null,
-            "bandwidth": null
-        }
-    },
-    {
         "id": 163,
         "category": "dedicated-servers",
         "nameId": "custom-intel-xeon-e3-1240-v2-30-16x-28-diverse-ipv4",
