@@ -887,65 +887,6 @@
         }
     },
     {
-        "id": 47,
-        "category": "hybrid-dedicated-servers",
-        "nameId": "dual-e5-2620-v2-32-gb-ram-1tb-hdd",
-        "url": "https://my.racknerd.com/index.php?rp=/store/hybrid-dedicated-servers/dual-e5-2620-v2-32-gb-ram-1tb-hdd",
-        "status": "available",
-        "name": "Dual E5-2620 v2 | 32 GB RAM (1TB HDD)",
-        "desc": "Dual Xeon E5-2620 v2 8x 2.10 GHz\n32 GB RAM\n1 TB HDD\n10TB Monthly Transfer\n1Gbps Network Port\n1 IPv4 Address\nRackNerd LA DC-02 Location",
-        "spec": {
-            "cpuInfo": "Dual Xeon E5-2620 v2 8x 2.10 GHz",
-            "memory": {
-                "value": 32,
-                "unit": "GB"
-            },
-            "disk": {
-                "value": 1,
-                "unit": "TB",
-                "type": "HDD"
-            },
-            "bandwidth": {
-                "value": 10,
-                "unit": "TB"
-            },
-            "netSpeed": {
-                "value": 1,
-                "unit": "Gbps",
-                "unmetered": false
-            },
-            "ipSlot": {
-                "value": 1,
-                "dedicated": false
-            }
-        },
-        "price": [
-            {
-                "monthly": 99
-            },
-            {
-                "quarterly": 297
-            },
-            {
-                "semiannually": 594
-            },
-            {
-                "annually": 1188
-            }
-        ],
-        "options": {
-            "location": [
-                {
-                    "region": "Los Angeles DC02",
-                    "testIp": "204.13.154.3"
-                }
-            ],
-            "diskStorage": null,
-            "ram": null,
-            "bandwidth": null
-        }
-    },
-    {
         "id": 62,
         "category": "special-promos",
         "nameId": "large-storage-4gb-kvm",
