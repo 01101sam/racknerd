@@ -3361,56 +3361,6 @@
         }
     },
     {
-        "id": 206,
-        "category": "special-promos",
-        "nameId": "custom-8gb-ram-kvm-client-13799",
-        "url": "https://my.racknerd.com/index.php?rp=/store/special-promos/custom-8gb-ram-kvm-client-13799",
-        "status": "available",
-        "name": "CUSTOM -- 8GB RAM KVM - Client #13799",
-        "desc": "",
-        "spec": {},
-        "price": [
-            {
-                "annually": 90
-            }
-        ],
-        "options": {
-            "location": [
-                {
-                    "region": "Dallas, TX",
-                    "testIp": "198.23.249.100"
-                },
-                {
-                    "region": "Chicago, IL",
-                    "testIp": "198.23.228.15"
-                },
-                {
-                    "region": "New Jersey",
-                    "testIp": "192.3.165.30"
-                },
-                {
-                    "region": "Atlanta",
-                    "testIp": "107.173.164.160"
-                },
-                {
-                    "region": "San Jose, CA",
-                    "testIp": "192.210.207.88"
-                },
-                {
-                    "region": "New York",
-                    "testIp": "192.3.81.8"
-                },
-                {
-                    "region": "Amsterdam",
-                    "testIp": "23.94.101.88"
-                }
-            ],
-            "diskStorage": null,
-            "ram": null,
-            "bandwidth": null
-        }
-    },
-    {
         "id": 210,
         "category": "september-special-promos",
         "nameId": "15gb-kvm-vps",
