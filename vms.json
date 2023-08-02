@@ -10627,5 +10627,206 @@
             "ram": null,
             "bandwidth": null
         }
+    },
+    {
+        "id": 780,
+        "category": "france-grand-opening-specials-kvm-vps",
+        "nameId": "1-gb-kvm-vps-special-france",
+        "url": "https://my.racknerd.com/index.php?rp=/store/france-grand-opening-specials-kvm-vps/1-gb-kvm-vps-special-france",
+        "status": "available",
+        "name": "1 GB KVM VPS Special (France)",
+        "desc": "1x vCPU Core\n20 GB Pure SSD RAID-10 Storage\n1 GB RAM\n3000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Strasbourg, France (HOT, New Location!)",
+        "spec": {
+            "vCPU": 1,
+            "disk": {
+                "value": 20,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 1,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 3000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 17.98
+            },
+            {
+                "biennially": 34.96
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 1,
+                    "unit": "GB"
+                },
+                {
+                    "value": 2,
+                    "unit": "GB"
+                },
+                {
+                    "value": 3,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 781,
+        "category": "france-grand-opening-specials-kvm-vps",
+        "nameId": "2-gb-kvm-vps-special-france",
+        "url": "https://my.racknerd.com/index.php?rp=/store/france-grand-opening-specials-kvm-vps/2-gb-kvm-vps-special-france",
+        "status": "available",
+        "name": "2 GB KVM VPS Special (France)",
+        "desc": "1x vCPU Cores\n30 GB Pure SSD RAID-10 Storage\n2 GB RAM\n4000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Strasbourg, France (HOT, New Location!)",
+        "spec": {
+            "vCPU": 1,
+            "disk": {
+                "value": 30,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 2,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 4000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 24.89
+            },
+            {
+                "biennially": 48.78
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 2,
+                    "unit": "GB"
+                },
+                {
+                    "value": 3,
+                    "unit": "GB"
+                },
+                {
+                    "value": 4,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 782,
+        "category": "france-grand-opening-specials-kvm-vps",
+        "nameId": "4-gb-kvm-vps-special-france",
+        "url": "https://my.racknerd.com/index.php?rp=/store/france-grand-opening-specials-kvm-vps/4-gb-kvm-vps-special-france",
+        "status": "available",
+        "name": "4 GB KVM VPS Special (France)",
+        "desc": "2x vCPU Cores\n50 GB Pure SSD RAID-10 Storage\n4 GB RAM\n6000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Strasbourg, France (HOT, New Location!)",
+        "spec": {
+            "vCPU": 2,
+            "disk": {
+                "value": 50,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 4,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 6000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 44.59
+            },
+            {
+                "biennially": 88.18
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 4,
+                    "unit": "GB"
+                },
+                {
+                    "value": 5,
+                    "unit": "GB"
+                },
+                {
+                    "value": 6,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
     }
 ]
