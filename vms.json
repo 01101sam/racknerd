@@ -10665,5 +10665,77 @@
             ],
             "bandwidth": null
         }
+    },
+    {
+        "id": 784,
+        "category": "amd-ryzenepyc-dedicated-servers",
+        "nameId": "amd-ryzen-threadripper-pro-5975wx-512gb-ram",
+        "url": "https://my.racknerd.com/index.php?rp=/store/amd-ryzenepyc-dedicated-servers/amd-ryzen-threadripper-pro-5975wx-512gb-ram",
+        "status": "available",
+        "name": "AMD Ryzen Threadripper PRO 5975WX | 512GB RAM",
+        "desc": "AMD Ryzen™ Threadripper™ PRO 5975WX - 32x 3.60 GHz (64x Threads, 4.50 GHz Max Boost Clock)\n512 GB DDR4 RAM\n2x 3.84 TB NVMe\n40 TB Monthly Transfer\n1Gbps Network Port\nPremium Network Blend\n5 IPv4 Addresses\nUtah - West Coast Datacenter Location",
+        "spec": {
+            "cpuInfo": "AMD Ryzen™ Threadripper™ PRO 5975WX - 32x 3.60 GHz (64x Threads, 4.50 GHz Max Boost Clock)",
+            "memory": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "disk": {
+                "value": 3.84,
+                "unit": "TB",
+                "type": "SSD"
+            },
+            "bandwidth": {
+                "value": 40,
+                "unit": "TB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 5,
+                "dedicated": false
+            }
+        },
+        "price": [
+            {
+                "monthly": 799
+            },
+            {
+                "quarterly": 2397
+            },
+            {
+                "semiannually": 4794
+            },
+            {
+                "annually": 9588
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "Utah, USA",
+                    "testIp": "64.140.171.123"
+                }
+            ],
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": [
+                {
+                    "value": 40,
+                    "unit": "TB"
+                },
+                {
+                    "value": 100,
+                    "unit": "TB"
+                },
+                {
+                    "value": 1,
+                    "unit": "Gbps"
+                }
+            ]
+        }
     }
 ]
