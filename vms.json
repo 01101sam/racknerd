@@ -4758,68 +4758,6 @@
         }
     },
     {
-        "id": 309,
-        "category": "amd-ryzen-linux-kvm-vps",
-        "nameId": "25-gb-ryzen-vps",
-        "url": "https://my.racknerd.com/index.php?rp=/store/amd-ryzen-linux-kvm-vps/25-gb-ryzen-vps",
-        "status": "available",
-        "name": "2.5 GB Ryzen VPS",
-        "desc": "2x AMD Ryzen CPU Cores\n40 GB NVMe SSD Storage\n2.5 GB DDR4 RAM\n6000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nLOCATION Los Angeles",
-        "spec": {
-            "cpuInfo": "AMD Ryzen CPU Core",
-            "disk": {
-                "value": 40,
-                "unit": "GB",
-                "type": "SSD"
-            },
-            "memory": {
-                "value": 2.5,
-                "unit": "GB"
-            },
-            "bandwidth": {
-                "value": 6000,
-                "unit": "GB"
-            },
-            "netSpeed": {
-                "value": 1,
-                "unit": "Gbps",
-                "unmetered": false
-            },
-            "ipSlot": {
-                "value": 1,
-                "dedicated": true
-            },
-            "controlPanel": "KVM / SolusVM"
-        },
-        "price": [
-            {
-                "annually": 69.59
-            },
-            {
-                "biennially": 137.68
-            }
-        ],
-        "options": {
-            "location": [
-                {
-                    "region": "New York",
-                    "testIp": "192.3.81.8"
-                },
-                {
-                    "region": "Dallas",
-                    "testIp": "198.23.249.100"
-                },
-                {
-                    "region": "Atlanta",
-                    "testIp": "107.173.164.160"
-                }
-            ],
-            "diskStorage": null,
-            "ram": null,
-            "bandwidth": null
-        }
-    },
-    {
         "id": 319,
         "category": "special-promos",
         "nameId": "new-locations-launch-sale-15gb-kvm-vps",
