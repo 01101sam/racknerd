@@ -9581,5 +9581,83 @@
                 }
             ]
         }
+    },
+    {
+        "id": 787,
+        "category": "special-promos",
+        "nameId": "custom-4-gb-vps-deal",
+        "url": "https://my.racknerd.com/index.php?rp=/store/special-promos/custom-4-gb-vps-deal",
+        "status": "available",
+        "name": "Custom 4 GB VPS Deal",
+        "desc": "2x vCPU Cores\n38 GB PURE SSD RAID-10 Storage\n4 GB RAM\n4000 GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Multiple Locations",
+        "spec": {
+            "vCPU": 2,
+            "disk": {
+                "value": 38,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 4,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 4000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 35.49
+            },
+            {
+                "biennially": 69.98
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                },
+                {
+                    "region": "Chicago, IL",
+                    "testIp": "198.23.228.15"
+                },
+                {
+                    "region": "Dallas, TX",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Seattle",
+                    "testIp": "192.3.253.2"
+                },
+                {
+                    "region": "San Jose, CA",
+                    "testIp": "192.210.207.88"
+                },
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
     }
 ]
