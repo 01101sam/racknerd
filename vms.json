@@ -9876,5 +9876,962 @@
             ],
             "bandwidth": null
         }
+    },
+    {
+        "id": 792,
+        "category": "black-friday-2023",
+        "nameId": "768-mb-kvm-vps-black-friday-2023",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/768-mb-kvm-vps-black-friday-2023",
+        "status": "available",
+        "name": "768 MB KVM VPS (Black Friday 2023)",
+        "desc": "1 vCPU Core\n15 GB PURE SSD RAID-10 Storage\n768 MB RAM\n1000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Multiple Locations",
+        "spec": {
+            "vCPU": 1,
+            "disk": {
+                "value": 15,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 768,
+                "unit": "MB"
+            },
+            "bandwidth": {
+                "value": 1000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 10.18
+            },
+            {
+                "biennially": 19.86
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                },
+                {
+                    "region": "Chicago, IL",
+                    "testIp": "198.23.228.15"
+                },
+                {
+                    "region": "Dallas, TX",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Seattle",
+                    "testIp": "192.3.253.2"
+                },
+                {
+                    "region": "San Jose, CA",
+                    "testIp": "192.210.207.88"
+                },
+                {
+                    "region": "Ashburn",
+                    "testIp": "107.173.166.10"
+                },
+                {
+                    "region": "Amsterdam",
+                    "testIp": "23.94.101.88"
+                },
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 768,
+                    "unit": "MB"
+                },
+                {
+                    "value": 1.5,
+                    "unit": "GB"
+                },
+                {
+                    "value": 2,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 793,
+        "category": "black-friday-2023",
+        "nameId": "2-gb-kvm-vps-black-friday-2023",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/2-gb-kvm-vps-black-friday-2023",
+        "status": "available",
+        "name": "2 GB KVM VPS (Black Friday 2023)",
+        "desc": "1 vCPU Core\n30 GB PURE SSD RAID-10 Storage\n2 GB RAM\n2500GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Multiple Locations",
+        "spec": {
+            "vCPU": 1,
+            "disk": {
+                "value": 30,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 2,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 2500,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 16.98
+            },
+            {
+                "biennially": 33.46
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                },
+                {
+                    "region": "Chicago, IL",
+                    "testIp": "198.23.228.15"
+                },
+                {
+                    "region": "Dallas, TX",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Seattle",
+                    "testIp": "192.3.253.2"
+                },
+                {
+                    "region": "San Jose, CA",
+                    "testIp": "192.210.207.88"
+                },
+                {
+                    "region": "Ashburn",
+                    "testIp": "107.173.166.10"
+                },
+                {
+                    "region": "Los Angeles DC02",
+                    "testIp": "204.13.154.3"
+                },
+                {
+                    "region": "Amsterdam",
+                    "testIp": "23.94.101.88"
+                },
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 2,
+                    "unit": "GB"
+                },
+                {
+                    "value": 3,
+                    "unit": "GB"
+                },
+                {
+                    "value": 4,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 794,
+        "category": "black-friday-2023",
+        "nameId": "2560-mb-kvm-vps-black-friday-2023",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/2560-mb-kvm-vps-black-friday-2023",
+        "status": "available",
+        "name": "2.5 GB KVM VPS (Black Friday 2023)",
+        "desc": "2 vCPU Cores\n50 GB PURE SSD RAID-10 Storage\n2.5 GB RAM\n5000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Multiple Locations",
+        "spec": {
+            "vCPU": 2,
+            "disk": {
+                "value": 50,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 2.5,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 5000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 25.49
+            },
+            {
+                "biennially": 50.48
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                },
+                {
+                    "region": "Chicago, IL",
+                    "testIp": "198.23.228.15"
+                },
+                {
+                    "region": "Dallas, TX",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Seattle",
+                    "testIp": "192.3.253.2"
+                },
+                {
+                    "region": "San Jose, CA",
+                    "testIp": "192.210.207.88"
+                },
+                {
+                    "region": "Ashburn",
+                    "testIp": "107.173.166.10"
+                },
+                {
+                    "region": "Los Angeles DC02",
+                    "testIp": "204.13.154.3"
+                },
+                {
+                    "region": "Amsterdam",
+                    "testIp": "23.94.101.88"
+                },
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 2.5,
+                    "unit": "GB"
+                },
+                {
+                    "value": 3.5,
+                    "unit": "GB"
+                },
+                {
+                    "value": 6,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 795,
+        "category": "black-friday-2023",
+        "nameId": "4-gb-kvm-vps-black-friday-2023",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/4-gb-kvm-vps-black-friday-2023",
+        "status": "available",
+        "name": "4 GB KVM VPS (Black Friday 2023)",
+        "desc": "2 vCPU Cores\n80 GB PURE SSD RAID-10 Storage\n4 GB RAM\n8000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Multiple Locations",
+        "spec": {
+            "vCPU": 2,
+            "disk": {
+                "value": 80,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 4,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 8000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 38.88
+            },
+            {
+                "biennially": 77.26
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                },
+                {
+                    "region": "Chicago, IL",
+                    "testIp": "198.23.228.15"
+                },
+                {
+                    "region": "Dallas, TX",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Seattle",
+                    "testIp": "192.3.253.2"
+                },
+                {
+                    "region": "San Jose, CA",
+                    "testIp": "192.210.207.88"
+                },
+                {
+                    "region": "Ashburn",
+                    "testIp": "107.173.166.10"
+                },
+                {
+                    "region": "Los Angeles DC02",
+                    "testIp": "204.13.154.3"
+                },
+                {
+                    "region": "Amsterdam",
+                    "testIp": "23.94.101.88"
+                },
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 4,
+                    "unit": "GB"
+                },
+                {
+                    "value": 5,
+                    "unit": "GB"
+                },
+                {
+                    "value": 6,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 796,
+        "category": "black-friday-2023",
+        "nameId": "4608-mb-kvm-vps-black-friday-2023",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/4608-mb-kvm-vps-black-friday-2023",
+        "status": "available",
+        "name": "4.5 GB KVM VPS (Black Friday 2023)",
+        "desc": "4 vCPU Cores\n115 GB PURE SSD RAID-10 Storage\n4.5 GB RAM\n10,000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in Multiple Locations",
+        "spec": {
+            "vCPU": 4,
+            "disk": {
+                "value": 115,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 4.5,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 10000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 52.49
+            },
+            {
+                "biennially": 104.48
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                },
+                {
+                    "region": "Atlanta",
+                    "testIp": "107.173.164.160"
+                },
+                {
+                    "region": "Chicago, IL",
+                    "testIp": "198.23.228.15"
+                },
+                {
+                    "region": "Dallas, TX",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Seattle",
+                    "testIp": "192.3.253.2"
+                },
+                {
+                    "region": "San Jose, CA",
+                    "testIp": "192.210.207.88"
+                },
+                {
+                    "region": "Ashburn",
+                    "testIp": "107.173.166.10"
+                },
+                {
+                    "region": "Los Angeles DC02",
+                    "testIp": "204.13.154.3"
+                },
+                {
+                    "region": "Amsterdam",
+                    "testIp": "23.94.101.88"
+                },
+                {
+                    "region": "Strasbourg, France",
+                    "testIp": "45.95.173.2"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 4.5,
+                    "unit": "GB"
+                },
+                {
+                    "value": 6,
+                    "unit": "GB"
+                },
+                {
+                    "value": 8,
+                    "unit": "GB"
+                },
+                {
+                    "value": 12,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 797,
+        "category": "black-friday-2023",
+        "nameId": "1536-mb-ryzen-7950x-vps-black-friday-2023",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/1536-mb-ryzen-7950x-vps-black-friday-2023",
+        "status": "available",
+        "name": "1.5 GB Ryzen 7950X VPS (Black Friday 2023)",
+        "desc": "1 vCPU AMD Ryzen 7950X Core\n30 GB Gen4 NVMe Storage\n1.5 GB DDR5 RAM\n2500GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in New York",
+        "spec": {
+            "cpuInfo": "1 vCPU AMD Ryzen 7950X Core",
+            "disk": {
+                "value": 30,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 1.5,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 2500,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 19
+            },
+            {
+                "biennially": 37.5
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 1.5,
+                    "unit": "GB"
+                },
+                {
+                    "value": 2.5,
+                    "unit": "GB"
+                },
+                {
+                    "value": 3.5,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 798,
+        "category": "black-friday-2023",
+        "nameId": "2-gb-ryzen-7950x-vps-black-friday-2023",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/2-gb-ryzen-7950x-vps-black-friday-2023",
+        "status": "available",
+        "name": "2 GB Ryzen 7950X VPS (Black Friday 2023)",
+        "desc": "2 vCPU AMD Ryzen 7950X Cores\n40 GB Gen4 NVMe Storage\n2 GB DDR5 RAM\n4000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in New York",
+        "spec": {
+            "cpuInfo": "2 vCPU AMD Ryzen 7950X Core",
+            "disk": {
+                "value": 40,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 2,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 4000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 29
+            },
+            {
+                "biennially": 57.5
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 2,
+                    "unit": "GB"
+                },
+                {
+                    "value": 3,
+                    "unit": "GB"
+                },
+                {
+                    "value": 4,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 799,
+        "category": "black-friday-2023",
+        "nameId": "3-gb-ryzen-7950x-vps-black-friday-2023",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/3-gb-ryzen-7950x-vps-black-friday-2023",
+        "status": "available",
+        "name": "3 GB Ryzen 7950X VPS (Black Friday 2023)",
+        "desc": "2 vCPU AMD Ryzen 7950X Cores\n55 GB Gen4 NVMe Storage\n3 GB DDR5 RAM\n6000GB Monthly Premium Bandwidth\n1Gbps Public Network Port\n1 Dedicated IPv4 Address\nKVM / SolusVM Control Panel - Reboot, Reinstall, Manage rDNS, & much more\nAvailable in New York",
+        "spec": {
+            "cpuInfo": "2 vCPU AMD Ryzen 7950X Core",
+            "disk": {
+                "value": 55,
+                "unit": "GB",
+                "type": "SSD"
+            },
+            "memory": {
+                "value": 3,
+                "unit": "GB"
+            },
+            "bandwidth": {
+                "value": 6000,
+                "unit": "GB"
+            },
+            "netSpeed": {
+                "value": 1,
+                "unit": "Gbps",
+                "unmetered": false
+            },
+            "ipSlot": {
+                "value": 1,
+                "dedicated": true
+            },
+            "controlPanel": "KVM / SolusVM"
+        },
+        "price": [
+            {
+                "annually": 45
+            },
+            {
+                "biennially": 89.5
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.81.8"
+                }
+            ],
+            "diskStorage": null,
+            "ram": [
+                {
+                    "value": 3,
+                    "unit": "GB"
+                },
+                {
+                    "value": 4,
+                    "unit": "GB"
+                },
+                {
+                    "value": 6,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 806,
+        "category": "black-friday-2023",
+        "nameId": "dedicated-intel-xeon-e3-1240-v2",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/dedicated-intel-xeon-e3-1240-v2",
+        "status": "available",
+        "name": "DEDICATED - Intel Xeon E3-1240 V2",
+        "desc": "Intel Xeon E3-1240 V2 - 4x 3.40 GHz (8 Threads, 3.80 GHz Turbo)\n32 GB DDR3 RAM\n2x 2 TB SATA HDD\n30 TB @ 1Gbps Bandwidth\n/28 IPv4 Allocation - 13 Usable IPs\nIPMI Access\nNew York - East Coast Datacenter",
+        "spec": {
+            "cpuInfo": "Intel Xeon E3-1240 V2 - 4x 3.40 GHz (8 Threads, 3.80 GHz Turbo)",
+            "memory": {
+                "value": 32,
+                "unit": "GB"
+            },
+            "disk": {
+                "value": 2,
+                "unit": "TB",
+                "type": "HDD"
+            },
+            "bandwidth": {
+                "value": 30,
+                "unit": "TB"
+            },
+            "ipSlot": {
+                "value": 13,
+                "dedicated": false
+            },
+            "controlPanel": "IPMI"
+        },
+        "price": [
+            {
+                "monthly": 59
+            },
+            {
+                "quarterly": 177
+            },
+            {
+                "semiannually": 354
+            },
+            {
+                "annually": 708
+            }
+        ],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 807,
+        "category": "black-friday-2023",
+        "nameId": "dedicated-dual-intel-xeon-e5-2690-v4",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/dedicated-dual-intel-xeon-e5-2690-v4",
+        "status": "available",
+        "name": "DEDICATED - Dual Intel Xeon E5-2690 V4",
+        "desc": "Dual Xeon E5-2690 V4 - 28x 2.60 GHz (56 Threads, 3.50 GHz Turbo)\n64 GB DDR3 RAM\n1.2 TB NVMe\n100 TB @ 1Gbps Bandwidth\n/29 IPv4 Allocation - 5 Usable IPs\nIPMI Access\nUtah - West Coast Datacenter",
+        "spec": {
+            "cpuInfo": "Dual Xeon E5-2690 V4 - 28x 2.60 GHz (56 Threads, 3.50 GHz Turbo)",
+            "memory": {
+                "value": 64,
+                "unit": "GB"
+            },
+            "disk": {
+                "value": 1.2,
+                "unit": "TB",
+                "type": "SSD"
+            },
+            "bandwidth": {
+                "value": 100,
+                "unit": "TB"
+            },
+            "ipSlot": {
+                "value": 5,
+                "dedicated": false
+            },
+            "controlPanel": "IPMI"
+        },
+        "price": [
+            {
+                "monthly": 149
+            },
+            {
+                "quarterly": 447
+            },
+            {
+                "semiannually": 894
+            },
+            {
+                "annually": 1788
+            }
+        ],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 808,
+        "category": "black-friday-2023",
+        "nameId": "dedicated-dual-intel-xeon-e5-2630-v4",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/dedicated-dual-intel-xeon-e5-2630-v4",
+        "status": "available",
+        "name": "DEDICATED - Dual Intel Xeon E5-2630 V4",
+        "desc": "Dual Xeon E5-2630 V4 - 20x 2.20 GHz (40x Threads, 3.10GHz Turbo)\n64 GB DDR3 RAM\n12x 8 TB SATA HDD\nHardware RAID Controller\n1Gbps Unmetered Bandwidth\n/29 IPv4 Allocation - 5 Usable IPs\nIPMI Access\nUtah - West Coast Datacenter",
+        "spec": {
+            "cpuInfo": "Dual Xeon E5-2630 V4 - 20x 2.20 GHz (40x Threads, 3.10GHz Turbo)",
+            "memory": {
+                "value": 64,
+                "unit": "GB"
+            },
+            "disk": {
+                "value": 8,
+                "unit": "TB",
+                "type": "HDD"
+            },
+            "bandwidth": {
+                "value": 1,
+                "unit": "Gbps"
+            },
+            "ipSlot": {
+                "value": 5,
+                "dedicated": false
+            },
+            "controlPanel": "IPMI"
+        },
+        "price": [
+            {
+                "monthly": 159
+            },
+            {
+                "quarterly": 477
+            },
+            {
+                "semiannually": 954
+            },
+            {
+                "annually": 1908
+            }
+        ],
+        "options": {
+            "location": null,
+            "diskStorage": null,
+            "ram": null,
+            "bandwidth": null
+        }
+    },
+    {
+        "id": 809,
+        "category": "black-friday-2023",
+        "nameId": "dedicated-seo-server-special",
+        "url": "https://my.racknerd.com/index.php?rp=/store/black-friday-2023/dedicated-seo-server-special",
+        "status": "available",
+        "name": "DEDICATED - SEO Server Special",
+        "desc": "Intel Xeon E3-1240 V2 - 4x 3.40 GHz (8 Threads, 3.80 GHz Turbo)\n16 GB DDR3 RAM\n1 TB SSD\n30 TB @ 1Gbps Bandwidth\n/29 + 4x /26 IPv4 Allocations (249 Usable IPs)\nOther IPv4 Diversity Options Available Below\nAvailable in: LAX, DFW, CHI, NY Datacenters",
+        "spec": {
+            "cpuInfo": "Intel Xeon E3-1240 V2 - 4x 3.40 GHz (8 Threads, 3.80 GHz Turbo)",
+            "memory": {
+                "value": 16,
+                "unit": "GB"
+            },
+            "disk": {
+                "value": 1,
+                "unit": "TB",
+                "type": "SSD"
+            },
+            "bandwidth": {
+                "value": 30,
+                "unit": "TB"
+            },
+            "ipSlot": {
+                "value": 249,
+                "dedicated": false
+            }
+        },
+        "price": [
+            {
+                "monthly": 140
+            },
+            {
+                "quarterly": 420
+            },
+            {
+                "semiannually": 840
+            },
+            {
+                "annually": 1680
+            }
+        ],
+        "options": {
+            "location": [
+                {
+                    "region": "New York",
+                    "testIp": "192.3.180.103"
+                },
+                {
+                    "region": "Chicago",
+                    "testIp": "198.23.228.15"
+                },
+                {
+                    "region": "Dallas",
+                    "testIp": "198.23.249.100"
+                },
+                {
+                    "region": "Los Angeles",
+                    "testIp": "107.175.180.6"
+                }
+            ],
+            "diskStorage": [
+                {
+                    "value": 1,
+                    "unit": "TB",
+                    "type": "SSD"
+                },
+                {
+                    "value": 2,
+                    "unit": "TB",
+                    "type": "HDD"
+                }
+            ],
+            "ram": [
+                {
+                    "value": 16,
+                    "unit": "GB"
+                },
+                {
+                    "value": 32,
+                    "unit": "GB"
+                }
+            ],
+            "bandwidth": [
+                {
+                    "value": 30,
+                    "unit": "TB"
+                }
+            ]
+        }
     }
 ]
